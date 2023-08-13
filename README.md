@@ -3,7 +3,7 @@ Welcome to the "Strivers A2Z DSA Pattern Questions" repository! This repository 
 
 Patterns are a crucial aspect of problem-solving, offering insights into algorithmic thinking and logical reasoning. Within this repository, you'll find an extensive array of questions that cover a wide range of pattern types, including star patterns, number patterns, and character patterns. These patterns not only challenge your ability to visualize and generate structures but also enhance your understanding of nested loops, conditional statements, and mathematical concepts.
 
-- Key Features 🔑 : 
+# Key Features 🔑 : 
 
  ⭐ Diverse Patterns: The repository contains a rich assortment of pattern questions, carefully curated to cover different complexities and variations. From simple pyramids to intricate diamond patterns, you'll encounter a plethora of challenges that will keep you engaged and sharpen your pattern recognition skills.
 
